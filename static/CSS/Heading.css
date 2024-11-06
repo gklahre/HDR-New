@@ -10,7 +10,7 @@
 
 /* Styles for the navigation bar */
 .topnav {
-  background-color: rgba(0, 0, 0, 0.8); /* Darken the background color */
+  background-color: rgba(81, 195, 234, 1); /* Darken the background color */
   height: 15vh; /* Increase the height */
   width: 100%;
   overflow: hidden;
@@ -26,7 +26,7 @@
 
 /* Styles for the links inside the navigation bar */
 .topnav a {
-  color: white;
+  color: black;
   font-size: 2.8vh; /* Increase font size */
   padding: 0 2vw;
   text-align: center;
